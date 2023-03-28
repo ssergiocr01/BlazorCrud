@@ -1,0 +1,7 @@
+﻿namespace BlazorCrud.Shared
+{
+    public class Class1
+    {
+
+    }
+}
